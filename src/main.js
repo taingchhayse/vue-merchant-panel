@@ -7,6 +7,8 @@ import 'element-ui/lib/theme-chalk/index.css'
 import locale from 'element-ui/lib/locale/lang/en' // lang i18n
 
 import '@/styles/index.scss' // global css
+import '@/styles/adminLTE.min.css'
+
 
 import App from './App'
 import store from './store'
